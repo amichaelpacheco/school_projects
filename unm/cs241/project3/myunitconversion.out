@@ -1,0 +1,172 @@
+Main menu
+What would you like to convert?
+Enter:
+1 - Temperature
+2 - Weight
+3 - Length
+4 - Currency
+5 - Volume
+You entered Temperature.
+Choose units:
+1 - Celsius to Fahrenheit
+2 - Fahrenheit to Celsius
+You entered Celsius to Fahrenheit.
+Enter Temperature in Celsius
+22.50 Celsius = 72.50 Fahrenheit
+Would you like to convert another value? (y/n)
+You entered y.
+
+Main menu
+What would you like to convert?
+Enter:
+1 - Temperature
+2 - Weight
+3 - Length
+4 - Currency
+5 - Volume
+You entered Weight.
+Choose units:
+1 - Kilograms to Pounds
+2 - Pounds to Kilograms
+You entered Kilograms to Pounds.
+Enter Weight in Kilograms
+20.20 Kilograms = 44.44 Pounds
+Would you like to convert another value? (y/n)
+You entered y.
+
+Main menu
+What would you like to convert?
+Enter:
+1 - Temperature
+2 - Weight
+3 - Length
+4 - Currency
+5 - Volume
+You entered Length.
+Choose units:
+1 - Centimeters to Inches
+2 - Inches to Centimeters
+You entered Inches to Centimeters.
+Enter Length in Inches
+141.30 Inches = 358.90 Centimeters
+Would you like to convert another value? (y/n)
+You entered y.
+
+Main menu
+What would you like to convert?
+Enter:
+1 - Temperature
+2 - Weight
+3 - Length
+4 - Currency
+5 - Volume
+You entered Currency.
+Choose units:
+1 - Euros to Dollars
+2 - Dollars to Euros
+You entered Dollars to Euros.
+Enter Currency in Dollars
+1223.00 Dollars = 1100.70 Euros
+Would you like to convert another value? (y/n)
+You entered y.
+
+Main menu
+What would you like to convert?
+Enter:
+1 - Temperature
+2 - Weight
+3 - Length
+4 - Currency
+5 - Volume
+You entered Volume.
+Choose units:
+1 - Liters to Ounces
+2 - Ounces to Liters
+You entered Liters to Ounces.
+Enter Volume in Liters
+0.25 Liters = 8.45 Ounces
+Would you like to convert another value? (y/n)
+You entered y.
+
+Main menu
+What would you like to convert?
+Enter:
+1 - Temperature
+2 - Weight
+3 - Length
+4 - Currency
+5 - Volume
+You entered Length.
+Choose units:
+1 - Centimeters to Inches
+2 - Inches to Centimeters
+You entered Centimeters to Inches.
+Enter Length in Centimeters
+Error: Value should be a positive float.
+Would you like to convert another value? (y/n)
+You entered y.
+
+Main menu
+What would you like to convert?
+Enter:
+1 - Temperature
+2 - Weight
+3 - Length
+4 - Currency
+5 - Volume
+You entered Temperature.
+Choose units:
+1 - Celsius to Fahrenheit
+2 - Fahrenheit to Celsius
+You entered Fahrenheit to Celsius.
+Enter Temperature in Fahrenheit
+-40.00 Fahrenheit = -40.00 Celsius
+Would you like to convert another value? (y/n)
+You entered y.
+
+Main menu
+What would you like to convert?
+Enter:
+1 - Temperature
+2 - Weight
+3 - Length
+4 - Currency
+5 - Volume
+You entered Currency.
+Choose units:
+1 - Euros to Dollars
+2 - Dollars to Euros
+Invalid Option
+Would you like to convert another value? (y/n)
+You entered y.
+
+Main menu
+What would you like to convert?
+Enter:
+1 - Temperature
+2 - Weight
+3 - Length
+4 - Currency
+5 - Volume
+Invalid Option
+Would you like to convert another value? (y/n)
+You entered y.
+
+Main menu
+What would you like to convert?
+Enter:
+1 - Temperature
+2 - Weight
+3 - Length
+4 - Currency
+5 - Volume
+You entered Weight.
+Choose units:
+1 - Kilograms to Pounds
+2 - Pounds to Kilograms
+You entered Pounds to Kilograms.
+Enter Weight in Pounds
+Error: Value should be a positive float.
+Would you like to convert another value? (y/n)
+You entered n.
+Bye!
