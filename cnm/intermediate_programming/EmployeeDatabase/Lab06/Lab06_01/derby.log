@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Thu Apr 22 19:52:51 MDT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0178-fc6e-03ec-00000f44a650 
+on database directory C:\Users\micha\Desktop\programming assgnmnts\interm java\Labs\Lab06\Lab06_01\employees with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+Loaded from file:/C:/Program%20Files/Java/jdk-15.0.1/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.1+9-18
+user.dir=C:\Users\micha\Desktop\programming assgnmnts\interm java\Labs\Lab06\Lab06_01
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Apr 22 19:53:30 MDT 2021: Shutting down Derby engine
+----------------------------------------------------------------
+Thu Apr 22 19:53:30 MDT 2021:
+Shutting down instance a816c00e-0178-fc6e-03ec-00000f44a650 on database directory C:\Users\micha\Desktop\programming assgnmnts\interm java\Labs\Lab06\Lab06_01\employees with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+----------------------------------------------------------------
