@@ -1,1 +1,0 @@
-Home Security Safe and Traffic Light Controller .zip folders are too large on github.
